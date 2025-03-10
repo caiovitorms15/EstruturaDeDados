@@ -1,2 +1,2 @@
 # EstruturaDeDados
- Estutururas de dados em C
+ Estruturas de dados em C e suas funções
